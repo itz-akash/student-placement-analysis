@@ -33,8 +33,8 @@ Check out the full report here: https://lookerstudio.google.com/reporting/132f0a
 - Data Visualization
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Dashboard]([path/to/screenshot1.png](https://drive.google.com/file/d/1bIiK5BLc66z7lmS489idmPxNXtIMCQHN/view?usp=drive_link))
+
 
 ## Contact
 - **Email:** aakashdubey950@gmail.com
