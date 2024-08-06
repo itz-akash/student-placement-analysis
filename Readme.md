@@ -32,13 +32,11 @@ Check out the full report here: https://lookerstudio.google.com/reporting/132f0a
 - Google Sheets
 - Data Visualization
 
-## Screenshots
-![Dashboard]([path/to/screenshot1.png](https://drive.google.com/file/d/1bIiK5BLc66z7lmS489idmPxNXtIMCQHN/view?usp=drive_link))
+
 
 
 ## Contact
 - **Email:** aakashdubey950@gmail.com
-- **Phone:** +91 8779447007
 
 ## Hashtags
 #DataAnalysis #DataVisualization #GoogleDataStudio #DataScience #Placements #StudentSuccess #SQL #GoogleSheets #Automation #IIDE
